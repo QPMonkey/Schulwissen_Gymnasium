@@ -1,39 +1,37 @@
 # 📐 MINT-Vault: Mathematik & Physik (Klasse 8)
 
 > [!IMPORTANT]
-> Dies ist ein **Obsidian Vault**. Um die volle Funktionalität wie interne Verlinkungen, den Wissens-Graphen und LaTeX-Formeln optimal zu nutzen, sollte dieser Ordner mit der App [Obsidian](https://obsidian.md/) geöffnet werden.
+> **Dies ist ein Obsidian Vault.** > Dieses Repository ist dafür optimiert, mit der Wissensmanagement-Software [Obsidian](https://obsidian.md/) geöffnet zu werden. Nur so funktionieren die internen Verlinkungen, der visuelle Wissens-Graph und die mathematischen Formeln korrekt.
 
 Willkommen in meinem digitalen Wissensspeicher. Dieses Repository kombiniert mathematische Präzision mit physikalischer Anwendung. Es ist darauf optimiert, die Schnittstellen zwischen beiden Fächern sichtbar zu machen.
+
+## 🚀 Erste Schritte (Installation)
+
+Wenn du diesen Vault lokal nutzen möchtest:
+
+1. **Obsidian installieren:** Lade Obsidian für dein Betriebssystem herunter.
+2. **Repository klonen:** Lade diesen Ordner von GitHub herunter oder nutze `git clone`.
+3. **Vault öffnen:** Starte Obsidian, klicke auf "Open folder as vault" und wähle diesen Ordner aus.
+4. **Plugins:** Für das beste Erlebnis empfehle ich die Installation der Plugins *Dataview* und *Excalidraw* über die Community-Einstellungen in Obsidian.
 
 ## 🧭 Inhaltsverzeichnis & Fachbereiche
 
 ### 🔢 Mathematik-Module
-* **📁 01_Geometrie/Vektoren:** Addition, Subtraktion, Skalierung und Spaltenschreibweise.
-* **📁 01_Algebra/Funktionen:** Proportionalitäten (wichtig für Hooke & Newton) und Termumformungen.
-* **📁 01_Arithmetik/Einheiten:** Sicherer Umgang mit Umrechnungsfaktoren (km/h, m/s, N/kg).
+* **📁 01_Geometrie/Vektoren:** Addition, Subtraktion und Spaltenschreibweise.
+* **📁 01_Algebra/Funktionen:** Proportionalitäten und Termumformungen.
+* **📁 01_Arithmetik/Einheiten:** Umrechnungen (km/h, m/s, N/kg).
 
 ### 🍎 Physik-Module (Mechanik)
 * **📁 02_Kinematik:** Beschreibung von Bewegungen ($v$, $a$, Freier Fall).
 * **📁 02_Dynamik:** Das Wechselspiel von Kraft ($F$), Masse ($m$) und Beschleunigung.
-* **📁 02_Statik:** Kräftegleichgewicht und Federkraft.
+* **📁 02_Statik:** Kräftegleichgewicht, Federkraft und Reibung.
 
 ## 🔗 Die Brücke: Mathe meets Physik
 
 In diesem Vault wird besonders auf die Verknüpfung geachtet:
 - **Vektoren:** Mathematische Pfeiladdition $\rightarrow$ Physikalische Kräftesumme.
-- **Lineare Funktionen:** Ursprungsgeraden im Mathe-Heft $\rightarrow$ Hookesches Gesetz ($F$-$s$-Diagramm).
-- **Gleichungen:** Termumformungen $\rightarrow$ Umstellen der Newton-Formel nach $m$ oder $a$.
-
-## 🛠 Setup in Obsidian
-
-Um die mathematischen Formeln korrekt darzustellen, nutzt dieser Vault **LaTeX**. 
-Beispiel für das Newtonsche Grundgesetz:
-$$\vec{F} = m \cdot \vec{a}$$
-
-### Empfohlene Plugins:
-1. **Dataview:** Erstellt dynamische Tabellen über alle Übungsaufgaben.
-2. **MathLinks:** Erlaubt schönere interne Verweise auf mathematische Sätze.
-3. **Excalidraw:** Für geometrische Konstruktionen und Vektorskizzen.
+- **Lineare Funktionen:** Ursprungsgeraden $\rightarrow$ Hookesches Gesetz ($F$-$s$-Diagramm).
+- **Gleichungen:** Termumformungen $\rightarrow$ Umstellen der Newton-Formeln.
 
 ---
-*„Mathematik ist das Alphabet, mit dem Gott das Universum geschrieben hat.“ – Galileo Galilei*
+*Erstellt mit Unterstützung von Gemini – für ein vernetztes Verständnis von Wissenschaft.*
