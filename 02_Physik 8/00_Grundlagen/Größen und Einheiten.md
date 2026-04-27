@@ -112,6 +112,6 @@ In der Mechanik musst du ständig zwischen diesen Einheiten wechseln:
 
 ## 🔄 8. Vernetzung
 
-- **Werkzeug für:** [[Geschwindigkeitsveränderung]]], [[Newtonsche Gesetze]], [[Leistung und Wirkungsgrad]].
+- **Werkzeug für:** [[Geschwindigkeitsveränderung]]], [[Das Newtonsche Grundgesetz]], [[Leistung und Wirkungsgrad]].
     
 - **Mathematik-Link:** [[Direkte Proportionalität]] (beim Umrechnen von Einheiten).

@@ -83,6 +83,6 @@ Das Auto hat seine Geschwindigkeit um **$40 \, km/h$** verändert.
 
 ## 🔄 7. Vernetzung
 
-- **Basiert auf:** [[Größen und Einheiten]], [[Mathematische Grundlagen]].
+- **Basiert auf:** [[Größen und Einheiten]].
     
 - **Führt zu:** [[Beschleunigung]] (Hier wird $\Delta v$ durch die Zeit geteilt).

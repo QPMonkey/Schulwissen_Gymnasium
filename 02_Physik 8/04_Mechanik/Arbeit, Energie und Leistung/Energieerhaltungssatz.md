@@ -71,6 +71,6 @@ Bei Aufgaben (z. B. ein Ball fällt von einem Turm) nutzt du den EES so:
 
 ## 🔄 6. Vernetzung
 
-- **Basiert auf:** [[Newtonsche Gesetze]], [[Lineare Gleichungen lösen]].
+- **Basiert auf:** [[Das Newtonsche Grundgesetz]], [[Lineare Gleichungen lösen]].
     
 - **Anwendung in:** [[Leistung und Wirkungsgrad]] (hier schaust du, wie viel Energie "verloren" geht).

@@ -97,4 +97,4 @@ Um eine Gleichung wie $4x + 12 = 28$ zu lösen, gehst du strategisch vor:
 
 - **Basis für:** [[Bruchgleichungen lösen]], [[Lineare Ungleichungen]].
     
-- **Anwendung in:** [[Newtonsche Gesetze]] (Berechnung von $F, m$ oder $a$), [[Geschwindigkeitsveränderung]].
+- **Anwendung in:** [[Das Newtonsche Grundgesetz]] (Berechnung von $F, m$ oder $a$), [[Geschwindigkeitsveränderung]].

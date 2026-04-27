@@ -88,4 +88,4 @@ Ein Stein fällt von einer Brücke und schlägt nach $3$ Sekunden im Wasser auf.
 
 - **Verbindung zu Newton II:** Die Kraft, die den freien Fall verursacht, ist die [[Die Gewichtskraft|Gewichtskraft]] ($F_G = m \cdot g$).
     
-- **Nächster Schritt:** Der [[Senkrechte Wurf]] (wenn der Körper mit einer Startgeschwindigkeit nach oben geworfen wird).
+- **Nächster Schritt:** Der [[Der senkrechte Wurf]] (wenn der Körper mit einer Startgeschwindigkeit nach oben geworfen wird).

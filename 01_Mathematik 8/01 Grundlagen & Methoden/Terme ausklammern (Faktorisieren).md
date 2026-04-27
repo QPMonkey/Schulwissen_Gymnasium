@@ -105,4 +105,4 @@ $$15ax - 10ay = \mathbf{5a} \cdot (3x - 2y)$$
 
 - **Gegenteil von:** [[Terme ausmultiplizieren (Distributivgesetz)]].
     
-- **Voraussetzung für:** [[Bruchterme]] und [[Bruchgleichungen lösen]].
+- **Voraussetzung für:** [[Bruchterme (Rechnen mit Variablen im Nenner)]] und [[Bruchgleichungen lösen]].

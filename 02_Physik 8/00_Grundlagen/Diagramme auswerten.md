@@ -111,4 +111,4 @@ Wenn du ein Diagramm in einer Schulaufgabe analysieren musst:
 
 - **Basiert auf:** [[Direkte Proportionalität]] (Mathe 7), [[Lineare Funktionen]] (Mathe 8).
     
-- **Anwendung in:** [[Beschleunigung]], [[Newtonsche Gesetze]].
+- **Anwendung in:** [[Beschleunigung]], [[Das Newtonsche Grundgesetz]].

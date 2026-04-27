@@ -114,4 +114,4 @@ In der 8. Klasse triffst du auf die kinetische Energie: $E_{kin} = \frac{1}{2} m
 
 - **Basiert auf:** [[Lineare Gleichungen lösen]].
     
-- **Essenziell für:** [[Newtonsche Gesetze]], [[Energieerhaltungssatz]], [[Leistung und Wirkungsgrad]].
+- **Essenziell für:** [[Das Newtonsche Grundgesetz]], [[Energieerhaltungssatz]], [[Leistung und Wirkungsgrad]].

@@ -85,4 +85,4 @@ Auf der Erde fallen alle Körper (ohne Luftwiderstand) mit der gleichen konstant
 
 - **Basiert auf:** [[Geschwindigkeitsveränderung]], [[Größen und Einheiten]].
     
-- **Führt zu:** [[Newtonsche Gesetze]] (Kraft = Masse $\cdot$ Beschleunigung).
+- **Führt zu:** [[Das Newtonsche Grundgesetz]] (Kraft = Masse $\cdot$ Beschleunigung).
